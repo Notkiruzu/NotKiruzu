@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kiruzu</h1>
-<h3 align="center">Am a 18 year old game developer looking to major in computer science.</h3>
+<h3 align="center">I'm a 20 year old majoring in computer science - cyber security.</h3>
 
-- 🔭 I’m currently working on starting a **indie game studio**
+- 🔭 I’m currently working on starting a **Security Firm**
 
-- 🌱 I’m currently learning **Front-end Web Development**
+- 🌱 I’m currently learning **Pentesting and networking**
 
-- 👯 I’m looking to collaborate on **game Development projects**
+- 👯 I’m looking to collaborate on **Capture-the-flag competitions**
 
 - 📫 How to reach me **kiruzujs@gmai.com**
 
-- ⚡ Fun fact **I am also interested in graphic design and video editing**
+- ⚡ Fun fact **I am also interested in writing**
 
 
 <h3 align="left">Languages and Tools:</h3>
