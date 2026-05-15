@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiruzu</h1>
-<h3 align="center">I'm a 20 year old majoring in computer science - cyber security.</h3>
+<h3 align="center">I'm a 21 year old majoring in computer science - cyber security.</h3>
 
 - 🔭 I’m currently working on starting a **Security Firm**
 
