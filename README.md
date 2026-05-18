@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on starting a **Security Firm**
 
-- 🌱 I’m currently learning **Pentesting and networking**
+- 🌱 I’m currently learning **AWS Architecture**
 
 - 👯 I’m looking to collaborate on **Capture-the-flag competitions**
 
